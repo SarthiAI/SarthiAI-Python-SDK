@@ -1,0 +1,9 @@
+tests
+__pycache__
+sarthiai-sdk
+dist
+sarthiai.egg-info
+build
+important.txt
+**/.DS_Store
+.DS_Store
